@@ -17,8 +17,12 @@ If the application does not start probably your device is not compatible with AR
 
 Key Features
 
-Highly immersive experience 
+Highly immersive experience
+
 Single player mode (vs AI)
+
 Multiplayer mode
+
 Guest mode
+
 Save player records
