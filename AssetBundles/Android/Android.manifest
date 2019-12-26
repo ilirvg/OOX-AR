@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2079704269
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: tictactoe
+      Dependencies: {}
